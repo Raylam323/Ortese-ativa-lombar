@@ -1,6 +1,6 @@
 ## Projeto - Órtese de Monitoramento da Região Lombar
 
-Este repositório contém os arquivos referentes ao **Projeto 02** da disciplina de Órteses e Próteses.  
+Este repositório contém os arquivos referentes ao **Projeto** das disciplinas "Órteses e Próteses" e "Técnicas de prototipação e montagem de circuitos e sistemas eletrônico" das quais participei.  
 O projeto consiste no desenvolvimento de uma **órtese ativa para monitoramento da região lombar**, equipada com sensores e atuadores para correção postural em tempo real.
 
 ---
@@ -9,6 +9,7 @@ O projeto consiste no desenvolvimento de uma **órtese ativa para monitoramento 
 - Raylam Wendel da Silva
 - Lucas de Sá Penaforte
 - Nathalia Giovana Soares da Paz
+- Júlio César Neves do Nascimento
 - Pablo Henrico Farias da Costa  
 - Orientadora: Luciana de Andrade Mendes
 ## Participantes 2 - o projeto que idealizei teve uma segunda parte que foi a confecção de uma PCB pra deixar o circuito mais compacto e próximo de um produto final, essa parte foi desenvolvida como projeto da disciplina "Técnicas de prototipação e montagem de circuitos e sistemas eletrônicos".
