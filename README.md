@@ -61,7 +61,7 @@ Quando uma postura inadequada é mantida por um período predefinido, o sistema 
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 - Implementar versão embarcada da órtese com feedback via aplicativo.  
 - Ampliar testes em diferentes perfis de usuários.  
 - Otimizar o layout da PCB para prototipagem industrial.  
