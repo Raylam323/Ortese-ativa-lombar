@@ -6,13 +6,13 @@ O projeto consiste no desenvolvimento de uma **órtese ativa para monitoramento 
 ---
 
 ## Participantes 1 - na disciplina de órtese e prótese a parte bruta do projeto foi feita e ao final da disciplina foi desenvolvido um produto, o protótipo de uma órtese ativa para monitoramento de lombar, participaram da fase 1 do projeto:
--- Raylam Wendel da Silva
+- Raylam Wendel da Silva
 - Lucas de Sá Penaforte
 - Nathalia Giovana Soares da Paz
 - Pablo Henrico Farias da Costa  
 - Orientadora: Luciana de Andrade Mendes
 ## Participantes 2 - o projeto que idealizei teve uma segunda parte que foi a confecção de uma PCB pra deixar o circuito mais compacto e próximo de um produto final, essa parte foi desenvolvida como projeto da disciplina "Técnicas de prototipação e montagem de circuitos e sistemas eletrônicos".
--- Raylam Wendel da Silva
+- Raylam Wendel da Silva
 - Ícaro Luiz de Souza Lino   
 - Janilton Gomes de Farias  
 - Orientador: Heitor Medeiros Florencio
